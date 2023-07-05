@@ -3,15 +3,16 @@
 This is a template that can be used to build LN Apps using the ZEBEDEE.io API.
 
 Start by:
-1. Creating an .env file as shown below.
+1. Set your secrets in replit OR create an .env file as shown below.
 
-Template for .env (create in the ln_app directory with manage.py)
+
+Example secrets or Template for .env (create in the ln_app directory with manage.py)
 ```
 ZEBEDEE_API_KEY="API_KEY_GOES_HERE"
 SECRET_KEY="YOUR_SECRET_KEY_HERE"
 ```
 
-Example .env after complete setup. DON'T USE!
+Example secrets or .env after complete setup. DON'T USE!
 ```
 ZEBEDEE_API_KEY="xVEhDAbL648Wn55Airkm2vPdq8dD6haf"
 SECRET_KEY="l@j7(nh13ctkn2)i)o=b#mycn1q%#6)23s#%b85x^z4-dd*6^)"

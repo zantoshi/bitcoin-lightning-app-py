@@ -8,14 +8,12 @@ Start by:
 Template for .env (create in the ln_app directory with manage.py)
 ```
 ZEBEDEE_API_KEY="API_KEY_GOES_HERE"
-MY_DOMAIN="DOMAIN.com"
 SECRET_KEY="YOUR_SECRET_KEY_HERE"
 ```
 
 Example .env after complete setup. DON'T USE!
 ```
 ZEBEDEE_API_KEY="xVEhDAbL648Wn55Airkm2vPdq8dD6haf"
-MY_DOMAIN="santos.lol"
 SECRET_KEY="l@j7(nh13ctkn2)i)o=b#mycn1q%#6)23s#%b85x^z4-dd*6^)"
 ```
 
